@@ -1,0 +1,17 @@
+Label Aciklamalari:
+
+meanVel : Ortalama Hiz
+maxVel : Maksimum Hizm
+minVel : Minimum Hiz
+stdVel : Hizin standart sapmasi
+maxAccel : Maksimum ivmelenme
+maxDecel : Maksimum yavaslama
+stdAccel : Hizlanmalarin standart sapmasi
+stdDecel : Yavaslamalarin standart sapmasi 
+rAccel : Hizlanilan sure/toplam sure
+rDecel : Yavaslanan sure/toplam sure
+rStop : Durus suresi/toplam sure
+stopCnt: Toplam durus sayisi
+meanStopDur: Ortalama durus suresi
+meanGear : Ortalama vites
+gearChg : Vites gecisi sayisi
